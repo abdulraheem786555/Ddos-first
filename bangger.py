@@ -7,7 +7,7 @@
 # Better be safe and ddos your own servers.
 # Also yall can modify the code as your wish.
 # Happy Bangging Bois/Girls
-# Author :  Abdul Raheem , version : Beta
+# Author :  Abdul Raheem (ThreatExp) , version : Beta
 # ----------------------------------------------------------------------------------------------
 import urllib2
 import sys
