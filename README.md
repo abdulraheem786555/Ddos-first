@@ -1,11 +1,10 @@
 # Ddos-first
-I Like how my script trashes scammers servers ;)
 
 
 
-made this on vs.
+made this on vs, Using Python^
 
 
 HOW TO RUN-:
 
-Just clone my repo, and execute using ' python bangger.py url'
+Just clone my repo, and execute using ' python bangger.py url |or python3 bangger.py url '
